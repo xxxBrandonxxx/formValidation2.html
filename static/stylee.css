@@ -1,0 +1,23 @@
+form.form-example {
+    display: table;
+}
+
+div.form-example {
+    display: table-row;
+    justify-content: center;
+    align-items: center;
+}
+
+label, input {
+    display: table-cell;
+    margin-bottom: 10px;
+}
+
+label {
+    padding-right: 10px;
+}
+
+.sg-submit-button {
+    color: #000000;
+    background: #993399;
+    }
